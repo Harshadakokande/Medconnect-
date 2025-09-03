@@ -104,4 +104,3 @@ GitHub: [Harshada\_kokande](https://github.com/Harshada_kokande)
 
 
 
-Do you also want me to make it **even shorter & simpler** (like 1–2 sections only), so it looks like a college project README?
