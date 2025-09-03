@@ -1,2 +1,0 @@
-# Medconnect-
-MedConnect++ is a full-stack web application that uses AI and ML to provide virtual healthcare support. The system allows users to check symptoms through an AI model, get preliminary disease predictions, and book doctor appointments online. Doctors can manage patient appointments, while patients can track their bookings. 
